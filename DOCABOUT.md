@@ -36,7 +36,16 @@ This has not been updated with the ZScript one.
 AKA, DON'T USE!!!" - OLDCODE
 
 
+---
 
 
 ## August-November
 The start of SD's main development. During a Amy Rose phase (cringe phase), I had a idea for a [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)-like  map pack for Doom. The name comes from a boss in a old Doom 2016 SnapMap I made years ago. 
+
+### Files
+| File | Description |
+| --------- | --------- |
+| boomtest.wad | The map itself. |
+| BlowyUpTest.pk3 | Standalone version of BlowyUp that can be used in other projects |
+| BlowyUp.pk3 | Has BlowyUp, as well as code for the map. |
+
