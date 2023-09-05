@@ -43,9 +43,41 @@ AKA, DON'T USE!!!" - OLDCODE
 The start of SD's main development. During a Amy Rose phase (cringe phase), I had a idea for a [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)-like  map pack for Doom. The name comes from a boss in a old Doom 2016 SnapMap I made years ago. 
 
 ### Files
+### Main root
 | File | Description |
 | --------- | --------- |
-| boomtest.wad | The map itself. |
-| BlowyUpTest.pk3 | Standalone version of BlowyUp that can be used in other projects |
-| BlowyUp.pk3 | Has BlowyUp, as well as code for the map. |
+| Stuff.pk3 | The main PK3 for the maps. |
+### BrokenPK3s
+| File | Description |
+| --------- | --------- |
+| All of the files | Corrupted PK3s. Most of the code I wrote for them is lost, as I didn't keep backups. Most of the code in **Stuff.pk3** is not the original code, it was reverse-engineered for this archive. |
 
+### Maps
+| File | Description |
+| --------- | --------- |
+| SD1.wad | Oops , all slime! Very inspired from the original BlowyUp map. Even has it copied and pasted in it. I scrapped it because starting your map pack in a brown cave is not really a good idea. |
+| SDDM1.wad | Remake of [Bodies](https://blood-wiki.org/index.php?title=BB3:_Bodies) from Blood, but set in a cave. |
+| HHDYWI.wad | The difficulty selection map, like in Quake. |
+
+### Maps\Oldvers
+| File | Description |
+| --------- | --------- |
+| Stuff1.wad and Stuff2.wad | Old verisons of Oops , all slime! |
+| MAP01.wad | Very unfinished bedroom. |
+
+---
+
+## OTEX (May)
+In May, I decided to change the map set, it was going to use ukiro's OTEX texture pack. It didn't get so far.
+
+NOTE, you will need to download OTEX from ukiro's website to view this map. I mean, you can, but it will look like shit.
+[Download OTEX](https://doom.ukiro.com/about-otex/)
+
+### Files
+| File | Description |
+| --------- | --------- |
+| NEW_HHDYWI.wad | The new version. Only has a puzzle to access Nightmare difficulty. |
+
+### (Not so) Fun stuff
+- The quote when you walk in the Nightmare room, "A heart of gold stopped beating, two willing hands at rest, God broke our hearts to prove to us he only takes the best.", is a fairly common verse to see on stuff like headstones.
+ 
