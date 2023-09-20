@@ -70,7 +70,7 @@ The start of SD's main development. During a Amy Rose phase (cringe phase), I ha
 ## OTEX (May)
 In May, I decided to change the map set, it was going to use ukiro's OTEX texture pack. It didn't get so far.
 
-NOTE, you will need to download OTEX from ukiro's website to view this map. I mean, you can, but it will look like shit.
+NOTE, you will need to download OTEX from ukiro's website to view this map. I mean, you can load it without it, but it will look like shit.
 [Download OTEX](https://doom.ukiro.com/about-otex/)
 
 ### Files
